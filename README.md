@@ -1,7 +1,7 @@
-### <div align="center">Hi 😀 I'm Mauricio, and I'm a Front-End developer 👩‍💻</div>  
+### <div align="center">Hi 😀 I'm Mauricio, and I'm a Full Stack developer 👩‍💻</div>  
   
 
-- 🌱 I’m currently learning AngularJS and MongoDB  
+- 🌱 I’m currently learning Java  
   
 
 - ⚡ Fun fact: I love videogames 🎮😎  
