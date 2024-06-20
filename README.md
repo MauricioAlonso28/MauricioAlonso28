@@ -6,8 +6,6 @@
 
 -  I’m currently learning Java 💯🤓  
   
-
-- Fun fact: I love videogames 🎮😎  
   
 
 <br/>  
