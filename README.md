@@ -1,10 +1,10 @@
-## **<div align="center">Hi 😀 I'm Mauricio, and I'm a Full Stack developer 👩‍💻</div>**  
+## **<div align="center">Hi 😀 I'm Mauricio, and I'm a Software developer 👩‍💻</div>**  
   
 
 - I’m currently working on Dill 🤠 (https://www.linkedin.com/company/dillar/mycompany/)  
   
 
-- I’m currently learning Java 💯  
+- I’m currently studying learning Java 💯  
   
 
 - Software Engineer in progress 🤓  
