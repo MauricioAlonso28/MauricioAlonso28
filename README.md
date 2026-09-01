@@ -74,7 +74,7 @@
 
 
 ## Github Stats  
-<img src="https://ghstats.dev/api/card?username=octocat&theme=ocean" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/card?username=MauricioAlonso28&theme=ocean" alt="GitHub Stats Card" />
 
 <br/>  
 
