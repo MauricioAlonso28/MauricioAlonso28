@@ -74,7 +74,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MauricioAlonso28&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://ghstats.dev/api/card?username=octocat&theme=ocean" alt="GitHub Stats Card" />
 
 <br/>  
 
